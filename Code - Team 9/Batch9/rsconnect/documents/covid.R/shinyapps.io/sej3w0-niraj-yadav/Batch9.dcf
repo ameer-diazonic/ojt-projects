@@ -1,0 +1,14 @@
+name: Batch9
+title: Batch9
+username:
+account: sej3w0-niraj-yadav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5723751
+bundleId: 5612575
+url: https://sej3w0-niraj-yadav.shinyapps.io/Batch9/
+when: 1645683378.35329
+lastSyncTime: 1645683378.35329
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
